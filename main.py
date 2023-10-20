@@ -10,7 +10,9 @@ def graphic_population_country(data):
         if dictionary:
             labels = list(dictionary.keys())
             values = list(dictionary.values())
-            graphics.bar_chart_generator(labels, values)
+            graphics.bar_chart_generator(f"img/population/{country}", labels, values)
+            view.show_title("Image created")
+            exit()
         else:
             view.show_title("The requested country was not found")
     except ValueError as error:
