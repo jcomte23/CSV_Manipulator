@@ -10,7 +10,15 @@
 
 <p align="center"><img src="https://happygitwithr.com/img/github-https-or-ssh-url-annotated.png" width="600" alt="ejemplo"></p>
 
-2.Execute the command ```python main.py``` in the command terminal inside the project.
+2.Execute the command ```cd CSV_Manipulator``` to move within the project.
+
+3.Execute the command ```python -m venv venv``` in the command prompt within the project to create the virtual environment
+
+4.Run the command ```venv/Scripts/activate.bat``` in the command prompt within the project to activate the virtual environment
+
+5.Execute the command ```pip install -r requirements.txt``` in the command terminal inside the project to install the dependencies
+
+6.Execute the command ```python main.py``` in the command terminal inside the project.
 
 ### Prerequisites
 *Check to have <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp; installed, run ```python --version``` in the terminal. 
