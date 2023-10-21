@@ -1,6 +1,6 @@
 <h1 align="center">CSV Manipulator</h1>
 
-<p align="center"><img src="https://www.aidoos.com/static-v4.1.0/aidoos_kb/Python.png" width="200" alt="logo"></p>
+<p align="center"><img src="https://i.ytimg.com/vi/ZB9VlRMS614/maxresdefault.jpg" width="200" alt="logo"></p>
 
 <p align="center">It facilitates efficient management and manipulation of CSV files using Python, allowing you to work with data simply and effectively</p>
 
