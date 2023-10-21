@@ -14,6 +14,7 @@
 
 3.Execute the command ```python -m venv venv``` in the command prompt within the project to create the virtual environment
 
+<strong>Windows</strong>
 4.Run the command ```venv/Scripts/activate.bat``` in the command prompt within the project to activate the virtual environment
 
 5.Execute the command ```pip install -r requirements.txt``` in the command terminal inside the project to install the dependencies
